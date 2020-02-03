@@ -84,8 +84,9 @@ ul, ol {
 }
 
 #brand h1 {
-    padding: 0;
+    padding: 5px 0 0 70px;
     color: #fff;
+    margin: 0 !important;
 }
 
 #brand {
