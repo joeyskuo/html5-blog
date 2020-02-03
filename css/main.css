@@ -70,6 +70,11 @@ ul, ol {
     padding: 0;
 }
 
+.container {
+    margin: 0 auto;
+    width: 80%;
+    overflow: hidden;
+}
 
 #main-header {
     height: 50px;
