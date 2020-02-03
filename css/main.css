@@ -83,8 +83,21 @@ ul, ol {
     margin-bottom: 20px;
 }
 
+#brand h1 {
+    padding: 0;
+    color: #fff;
+}
 
+#brand {
+    float: left;
+    width: 50%;
+}
 
+#brand img {
+    position: absolute;
+    width: 60px;
+    height: auto;
+}
 
 
 
