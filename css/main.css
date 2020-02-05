@@ -135,8 +135,20 @@ ul, ol {
     float: right;
     width: 30%;
 }
+.search {
+    float: right;
+}
+
+.search input[type="search"] {
+    width: 85%;
     float: left;
 }
+
+.search input[type="image"] {
+    width: 10%;
+    float: right;
+}
+
 /* ==========================================================================
    Media Queries
    ========================================================================== */
