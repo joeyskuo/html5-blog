@@ -127,6 +127,9 @@ ul, ol {
 #content {
     float: left;
     width: 60%;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+
 }
 #sidebar {
     float: right;
