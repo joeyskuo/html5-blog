@@ -159,6 +159,33 @@ ul, ol {
     overflow: auto;
 }
 
+#main-footer a {
+    color: #fff;
+}
+
+#main-footer .footer-left {
+    float: left;
+    width: 30%;
+}
+
+#main-footer .footer-right {
+    float: right;
+    width: 70%;
+}
+
+#main-footer .footer-nav {
+    float: left;
+    width: 31%;
+    font-size: 15px;
+    padding: 20px 0 20px 0;
+    margin-right: 10px;
+}
+
+#main-footer .footer-nav li {
+    padding: 5px 0 5px 0;
+    border-bottom: dotted #666 1px;
+}
+
 /* ==========================================================================
    Media Queries
    ========================================================================== */
